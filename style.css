@@ -1,0 +1,27 @@
+h1 {
+  color: orangered;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-shadow: 2px 2px rgb(124 , 123 ,159);
+}
+
+body {
+  color: darkorange;
+  text-align: center;
+  background-color: rosybrown;
+}
+a{
+  border-color: orangered;
+  border-style: groove;
+  background-color: rosybrown;
+  padding: 4px;
+  border-radius: 100px;
+  color: darkorange;
+}
+.para{
+  color:orangered;  
+}
+.sub {
+  color:orangered;
+  text-shadow: 2px 2px rgb(123,123,159);
+}
